@@ -3,7 +3,7 @@
 어제에 이어서 xv6 스케쥴러에 priority를 추가하는 작업을 진행함.
 <br>
 
-1. 스케쥴링과 관련해서 aging, priority inversion, priority inheritence 에 대해서 공부했다. 
+1. 스케쥴링과 관련해서 aging, priority inversion, priority inheritence 에 대해서 공부했다.  
 
 2. 여러개의 cpu가 있는 것이 어떤 의미인지 잘 와닿지 않았었는데, 어떤 식으로 동작하는지를 알게되었다. 
 
