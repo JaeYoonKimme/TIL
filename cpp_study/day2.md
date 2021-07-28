@@ -1,4 +1,4 @@
-# C++ STUDY - DAY 1
+# C++ STUDY - DAY 2
 C++ Crash Course  
 -Chapter3 Reference Types,  
 -Chapter4 The Object Life Cycle (~Call Stack Unwinding 까지)
